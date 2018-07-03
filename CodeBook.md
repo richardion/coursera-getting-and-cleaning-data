@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # Code Book
 This code book describes the data used in the project and the processing needed to create the tidy data set.
 
