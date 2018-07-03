@@ -16,6 +16,6 @@ This class project asked us to analyse the [Human Activity Recognition Using Sma
 * Check that the stringr library is installed. If not, you can download it from [CRAN](https://cran.r-project.org/).
 
 ## Running the script
-Once all of these steps have been performed, the run_analysis.R script can be run. It will then generate an output file: tidy_set.csv
+Once all of these steps have been performed, the run_analysis.R script can be run. It will then generate an output file: tidy_set.txt
 
 Please refer to the codebook for further information about the data and the analysis. 
