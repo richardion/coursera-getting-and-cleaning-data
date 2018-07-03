@@ -32,4 +32,4 @@ The project analysis was made using only the files described above. We ignored t
 2. Removal of the columns that did not contain the strings "std()" and "mean()", except the subject and activity columns. The resulting data set comprised of 68 columns.
 3. In the activity column: replacement of the activity ID with its descriptive label, for each observation.
 4. Aggregating the data set using the subject and activity as factors, and calculating the mean of each feature (one row per activity per subject). With 30 subjects and 6 activities, the resulting data set was comprised of 180 observations.
-5. Outputting the tidy data set into a csv file, using the write.csv2() function.
+5. Outputting the tidy data set into a txt file, using the write.table function.
